@@ -12,7 +12,8 @@ The process behind this dashboard's creation involved several key steps:
 3️ Visual Exploration: The dashboard truly came to life through an array of visually engaging components – diverse visuals, slicers, and filters. 🖼️ These elements enabled us to immerse ourselves in the data, extract multifaceted insights, and tailor strategies for greater efficiency.
 
 # TASK 2
- Key Insights
+ # Key Insights
+ 
 1 The industry has a total of 7043 customers, with a relatively even distribution of 50.48% male and 49.52% female customers. The industry's customer retention rate is 73.46%, while the churn rate is 26.54%. 
 
 2 Analysis of churn rates by gender reveals that females have a slightly higher churn rate of 50.24% compared to males with a churn rate of 49.76%.
